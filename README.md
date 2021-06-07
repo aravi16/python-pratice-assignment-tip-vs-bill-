@@ -3,7 +3,9 @@
 # tasks 
 
 1	What is the overall average tip?
+
 2	Get a numerical summary for 'tip' - are the median and mean very different? What does this tell you about the field?
+
 3	Prepare a boxplot for 'tip', are there any outliers?
 4	Prepare a boxplot for 'total_bill', are there any outliers?
 5	Gender: what is the percent of females in the data? 
